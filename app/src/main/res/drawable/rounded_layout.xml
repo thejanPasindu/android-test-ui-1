@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#2EFFFFFF"/> <!-- White with 50% transparency -->
+            <corners android:radius="40dp"/> <!-- Adjust the radius for the desired roundness -->
+        </shape>
+    </item>
+</layer-list>
